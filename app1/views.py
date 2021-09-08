@@ -3,8 +3,10 @@ from django.shortcuts import render
 # Create your views here.
 
 
+def priti():
+    print("##############################")
 
-def sub(a,b):
-    return a-b
 
-print("111111111111111111111111111111111111")
+
+def fun():
+    print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
