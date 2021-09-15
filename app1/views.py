@@ -8,3 +8,5 @@ from django.shortcuts import render
 
 
 "priti learning python"
+
+"Hi priti from Aishwarya"
